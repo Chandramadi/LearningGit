@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Changing from main branch
+=======
+Merge Conflict
+>>>>>>> new_branch
+Changing from naya branch
